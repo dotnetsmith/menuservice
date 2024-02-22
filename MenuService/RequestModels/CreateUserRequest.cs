@@ -1,4 +1,4 @@
-﻿namespace MenuService.RequestModels
+﻿namespace UserApi.RequestModels
 {
     public class CreateUserRequest
     {

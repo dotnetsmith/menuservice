@@ -1,6 +1,6 @@
 ﻿using FluentValidation.Results;
 
-namespace MenuService
+namespace UserApi
 {
     public class Result<T>
     {

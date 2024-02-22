@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MenuService.Application\MenuService.Application.csproj" />
+    <ProjectReference Include="..\MenuService.Application\UserApplication.csproj" />
   </ItemGroup>
 
 </Project>

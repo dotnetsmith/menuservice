@@ -1,12 +1,7 @@
-﻿using MenuService.Application.Data.Entities;
-using MenuService.Application.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using UserApplication.Data.Entities;
+using UserApplication.Models;
 
-namespace MenuService.Application.Mapping
+namespace UserApplication.Mapping
 {
     public static class Map
     {

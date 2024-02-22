@@ -1,4 +1,4 @@
-﻿namespace MenuService.ResponseModels
+﻿namespace UserApi.ResponseModels
 {
     public class CreateUserResponse
     {

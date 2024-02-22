@@ -1,8 +1,7 @@
-﻿using MenuService.Application.Data.Entities;
-using MenuService.Application.Data.Repositories;
-using MenuService.Application.Models;
+﻿using MenuService.Application.Data.Repositories;
+using UserApplication.Models;
 
-namespace MenuService.Application.UseCases
+namespace UserApplication.UseCases
 {
     public class GetUserByIdUseCase
     {

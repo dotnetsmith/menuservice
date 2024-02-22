@@ -1,5 +1,5 @@
 
-namespace MenuService
+namespace UserApi
 {
     public class Program
     {

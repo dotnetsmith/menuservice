@@ -1,4 +1,4 @@
-﻿namespace MenuService.Application.Data.Entities
+﻿namespace UserApplication.Data.Entities
 {
     public class User
     {

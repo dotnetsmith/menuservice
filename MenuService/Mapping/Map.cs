@@ -1,7 +1,7 @@
-﻿using MenuService.Application.Models;
-using MenuService.ResponseModels;
+﻿using UserApi.ResponseModels;
+using UserApplication.Models;
 
-namespace MenuService.Mapping
+namespace UserApi.Mapping
 {
     public static class Map
     {

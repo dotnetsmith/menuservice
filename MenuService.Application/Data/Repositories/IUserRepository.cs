@@ -1,4 +1,4 @@
-﻿using MenuService.Application.Data.Entities;
+﻿using UserApplication.Data.Entities;
 
 namespace MenuService.Application.Data.Repositories
 {

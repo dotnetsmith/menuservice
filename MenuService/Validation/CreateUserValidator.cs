@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using MenuService.RequestModels;
+using UserApi.RequestModels;
 
-namespace MenuService.Validation
+namespace UserApi.Validation
 {
     public class CreateUserValidator : AbstractValidator<CreateUserRequest>
     {
